@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/drawable/bck_gradation.xml" value="0.201" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/drawable/btn_blue.xml" value="0.1915" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/drawable/btn_facebook_blue.xml" value="0.201" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/drawable/btn_facebook_dark_blue.xml" value="0.201" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/drawable/btn_pink.xml" value="0.1915" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/drawable/btn_pulple.xml" value="0.1915" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/drawable/btn_purple.xml" value="0.1" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/drawable/btn_toss_blue.xml" value="0.201" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/drawable/human_icon.xml" value="0.201" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/drawable/icn_human_white.xml" value="0.201" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/font/font.xml" value="0.2786458333333333" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/rlagk/AndroidStudioProjects/MyJavaApplicationPractice/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1915" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
